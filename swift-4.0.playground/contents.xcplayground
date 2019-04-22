@@ -11,5 +11,6 @@
         <page name='swift-元组'/>
         <page name='swift-字典'/>
         <page name='swift-字符串'/>
+        <page name='Stanford-03'/>
     </pages>
 </playground>
